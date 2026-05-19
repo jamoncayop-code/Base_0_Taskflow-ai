@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 // taskflow-ai/src/actions/__tests__/tasks.test.ts
 
 // Importamos las herramientas de Vitest
