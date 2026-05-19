@@ -30,6 +30,12 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
+# testing
+/coverage
+playwright/.auth
+/playwright-report
+/test-results
+
 # env files (can opt-in for committing if needed)
 .env*
 .env*.local
@@ -41,3 +47,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+.vercel
