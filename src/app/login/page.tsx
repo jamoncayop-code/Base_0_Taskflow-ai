@@ -53,6 +53,7 @@ export default async function LoginPage({
 
     return (
         <main className="min-h-screen bg-slate-950 flex items-center justify-center px-4">
+            <h1>Por fin acabamos el contexto </h1>
             <section className="w-full max-w-md rounded-2xl bg-white p-8 shadow-2xl">
                 <div className="mb-8 text-center">
                     <h1 className="text-3xl font-bold text-slate-900">
