@@ -60,7 +60,7 @@ export default async function LoginPage({
                         TaskFlow AI
                     </h1>
                     <p className="mt-2 text-sm text-slate-600">
-                        Inicia sesión para entrar al tablero
+                        Inicia sesión para entrar al tablero soy jaime y es lunes
                     </p>
                 </div>
 
